@@ -8,7 +8,7 @@ This package is dedicated to constructing, searching for and characterising qudi
 See the pdf files for handwritten documents explaining the non-binary BP-OSD, ILP formulation etc. Will be typeset in future. 
 
 ## Research papers referenced and used here
-(Sequences of Bivariate Bicycle Codes from Covering Graphs)[https://arxiv.org/abs/2511.13560]
+[Sequences of Bivariate Bicycle Codes from Covering Graphs](https://arxiv.org/abs/2511.13560)
 (Qudit LDPC codes)[https://arxiv.org/abs/2510.06495]
 
 ## Usage example:
