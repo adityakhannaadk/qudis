@@ -1,4 +1,4 @@
-<img width="907" height="343" alt="image" src="https://github.com/user-attachments/assets/39547158-3d06-44f0-bd5c-930026e67ed1" />
+<img width="403" height="172" alt="image" src="https://github.com/user-attachments/assets/39547158-3d06-44f0-bd5c-930026e67ed1" />
 
 ## Introduction
 This package is dedicated to constructing, searching for and characterising qudit LDPC codes. Currently it supports bivariate-bicycle and trivariate-bicycle, but this is to be extended. There is an integer programming based exact distance finder which supports warm starts and heuristic solutions, and a BP-OSD based decoder and distance finder which finds the heuristic solutions. We may also use the mathematical techniques in "Sequences of Bivariate Bicycle codes from Covering Graphs" by Symons, Rajput and Browne to generate sequences of good candidates given one good base code, as demonstrated in coversearch.py which takes in such a base code. The formulas within that can be generalised to multivariate bicycle etc. codes. 
