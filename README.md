@@ -5,7 +5,7 @@ This package is dedicated to constructing, searching for and characterising qudi
 
 
 ## More information/derivations etc. 
-See the resources folder for handwritten documents explaining the non-binary BP-OSD, ILP formulation etc. Will be typeset in future. 
+See the pdf files for handwritten documents explaining the non-binary BP-OSD, ILP formulation etc. Will be typeset in future. 
 
 
 ## Usage example:
